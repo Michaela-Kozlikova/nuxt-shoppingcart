@@ -1,75 +1,11 @@
-# Nuxt Minimal Starter
+# 🛒 Cyberpunk Shopping Cart (Nuxt Edition)
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A high-performance rewrite of the Cyberpunk Shopping Cart using the **Nuxt** framework. This project demonstrates the transition from Vanilla JS to a modern, component-based architecture.
 
-## Setup
+## 🛠️ Built With
+- **Nuxt 3** (Vue.js Framework)
+- **Custom CSS3** (Neon UI & Futuristic Styling)
+- **Modern JavaScript**
 
-Make sure to install dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## 🚀 Live Demo
+Enter the shop here: https://cyberpunk-shoppingcart.netlify.app
