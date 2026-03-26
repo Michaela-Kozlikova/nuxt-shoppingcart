@@ -8,4 +8,4 @@ A high-performance rewrite of the Cyberpunk Shopping Cart using the **Nuxt** fra
 - **Modern JavaScript**
 
 ## 🚀 Live Demo
-Enter the shop here: https://nuxt-shoppingcart.vercel.app
+Enter the shop here: https://trial-shopping-cart.vercel.app
